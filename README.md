@@ -1,14 +1,14 @@
-# 🌿 Greenden Frontpage
+# 🌿 Greenden Website
 
-A simple and modern frontpage design for a plant-themed website called **Greenden**, built using **HTML** and **Tailwind CSS**.
+A simple and modern multi-page website for a plant-themed brand called **Greenden**, built using **HTML** and **Tailwind CSS**.
 
 ## 📌 Features
 
-* Clean and responsive design
+* Responsive multi-page design
 * Built with utility-first **Tailwind CSS**
-* Modern UI layout for a plant/eco brand
-* Mobile-friendly structure
-* Simple and lightweight (no JavaScript)
+* Clean and modern UI for a plant/eco brand
+* Mobile-friendly layout
+* Lightweight and fast (no JavaScript)
 
 ## 🛠️ Tech Stack
 
@@ -17,27 +17,38 @@ A simple and modern frontpage design for a plant-themed website called **Greende
 
 ## 📂 Project Structure
 
-```
+```id="n2k4xm"
 greenden/
-│── index.html
+│── index.html      # Home page
+│── product.html    # Product listing page
+│── contact.html    # Contact page
 │── README.md
 ```
 
+## 📄 Pages Overview
+
+* **Home (index.html)**
+  Landing page with introduction, hero section, and highlights
+
+* **Product (product.html)**
+  Displays available plants/products in a clean layout
+
+* **Contact (contact.html)**
+  Simple contact form or contact information section
+
 ## 💡 What I Learned
 
-* How to structure a responsive webpage using Tailwind CSS
-* Using utility classes for layout, spacing, and typography
-* Building a visually appealing landing page without JavaScript
+* Building a multi-page website structure
+* Creating reusable layouts using Tailwind CSS
+* Designing responsive sections for different screen sizes
+* Improving UI consistency across multiple pages
 
 
 ## 📈 Future Improvements
 
-* Add more pages (Shop, About, Contact)
-* Include animations and interactivity
-* Improve accessibility and SEO
+* Add JavaScript for interactivity (menu toggle, form validation)
+* Improve product filtering and search
+* Enhance contact form functionality (backend integration)
+* Add animations and transitions
 
 
-
-* Customize this README based on your actual design sections (navbar, hero, etc.)
-* Add badges (GitHub stars, license, etc.)
-* Or make it more beginner-friendly or more professional depending on your goal
